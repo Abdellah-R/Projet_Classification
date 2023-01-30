@@ -12,3 +12,7 @@ body, html{
     color: white;
   }
  
+.form-group{
+    padding: 0.5em;
+  }
+  

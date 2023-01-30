@@ -13,6 +13,7 @@
               <div class="form-group">
                 <label>North American Industry Classification System (NAICS)  :</label>
                   <select name="naics_code">
+                    <option value="0"></option>
                     <option value="11">Agriculture, sylviculture et pêche</option>
                     <option value="21">Industrie minière</option>
                     <option value="22">Secteur des services publics</option>
@@ -60,6 +61,14 @@
           </div>
         </div>
       </div>
+      {% comment %} {% if submit %}
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 offset-md-3">
+            <h1 class="text-center">Réponse</h1>
+          </div>
+        </div>
+      </div> {% endcomment %}
       
           
 {% endblock content%} 
