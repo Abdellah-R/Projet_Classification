@@ -7,7 +7,8 @@ ENV PYTHONUNBUFFERED 1
 COPY . /app
 
 RUN pip install --upgrade pip && \
-    pip install -r requirements.txt
+    pip install -r requirements.txt && \
+    python manage.py makemigrations && migrate 
 
 EXPOSE 8000
 
