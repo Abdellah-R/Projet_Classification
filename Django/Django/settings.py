@@ -29,6 +29,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['projet-classification.onrender.com']
 
+CSRF_TRUSTED_ORIGINS = ["https://projet-classification.onrender.com", "https://projet-classification-sba.onrender.com"]
+
 
 # Application definition
 
