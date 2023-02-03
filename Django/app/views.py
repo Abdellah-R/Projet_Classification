@@ -13,7 +13,7 @@ def home(request):
         
         if form.is_valid():
             data = json.dumps(form.cleaned_data)
-            reponse = requests.post('http://127.0.0.1:8000/predict', data=data)
+            reponse = requests.post('https://projet-classification-sba.onrender.com/predict', data=data)
             info = json.loads(reponse.text)
             print(info)
             return render(request, 'app/home.html', context={'form' : form, 'info' : info} )
