@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Projet_Classification/Notebooks/mlruns/0/f20acf49614f4f2c96ccb91c824ab43a/artifacts
+end_time: 1675437176515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f20acf49614f4f2c96ccb91c824ab43a
+run_name: sedate-horse-75
+run_uuid: f20acf49614f4f2c96ccb91c824ab43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675437174093
+status: 3
+tags: []
+user_id: apprenant

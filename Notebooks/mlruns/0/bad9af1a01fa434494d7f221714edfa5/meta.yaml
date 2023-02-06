@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Projet_Classification/Notebooks/mlruns/0/bad9af1a01fa434494d7f221714edfa5/artifacts
+end_time: 1675674244653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bad9af1a01fa434494d7f221714edfa5
+run_name: brawny-elk-158
+run_uuid: bad9af1a01fa434494d7f221714edfa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675674243930
+status: 4
+tags: []
+user_id: apprenant

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Projet_Classification/Notebooks/mlruns/0/5b0dbda452c8449d81f621b92c95916e/artifacts
+end_time: 1675678203908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b0dbda452c8449d81f621b92c95916e
+run_name: learned-smelt-796
+run_uuid: 5b0dbda452c8449d81f621b92c95916e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675678203412
+status: 4
+tags: []
+user_id: apprenant

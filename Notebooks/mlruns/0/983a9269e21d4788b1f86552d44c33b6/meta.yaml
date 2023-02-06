@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Projet_Classification/Notebooks/mlruns/0/983a9269e21d4788b1f86552d44c33b6/artifacts
+end_time: 1675436709243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 983a9269e21d4788b1f86552d44c33b6
+run_name: abundant-deer-283
+run_uuid: 983a9269e21d4788b1f86552d44c33b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675436707119
+status: 3
+tags: []
+user_id: apprenant

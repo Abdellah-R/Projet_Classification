@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Projet_Classification/Notebooks/mlruns/0/98bb59f2cc704ad884cdbfa754c0d507/artifacts
+end_time: 1675436641468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98bb59f2cc704ad884cdbfa754c0d507
+run_name: persistent-mink-897
+run_uuid: 98bb59f2cc704ad884cdbfa754c0d507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675436631435
+status: 3
+tags: []
+user_id: apprenant

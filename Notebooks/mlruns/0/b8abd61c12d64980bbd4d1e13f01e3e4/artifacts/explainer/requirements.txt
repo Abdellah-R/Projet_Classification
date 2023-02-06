@@ -1,0 +1,17 @@
+mlflow<3,>=2.1
+cffi==1.15.1
+cloudpickle==2.2.1
+defusedxml==0.7.1
+ipython==8.8.0
+llvmlite==0.39.1
+matplotlib==3.6.3
+numba==0.56.4
+pandas==1.5.2
+psutil==5.9.4
+pyyaml==6.0
+scikit-learn==1.2.0
+shap==0.41.0
+slicer==0.0.7
+tqdm==4.64.1
+typing-extensions==4.4.0
+xgboost==1.7.3

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Projet_Classification/Notebooks/mlruns/0/5681c7d449464a9cbe8e2689bee277d3/artifacts
+end_time: 1675679395313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5681c7d449464a9cbe8e2689bee277d3
+run_name: wistful-foal-526
+run_uuid: 5681c7d449464a9cbe8e2689bee277d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675679346286
+status: 3
+tags: []
+user_id: apprenant
